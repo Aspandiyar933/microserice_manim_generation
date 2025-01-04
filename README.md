@@ -1,1 +1,0 @@
-# microserice_manim_generation
